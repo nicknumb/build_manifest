@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/nicknumb/" name="github"/> 
+  
+  <default remote="github" revision="refs/heads/VIMS" sync-j="4"/>
+
+  <project name="buildroot_hardware_aml_arm_gpu" path="hardware/aml-4.9/arm/gpu" revision="e0f58379ee32c96a38a9933ac1bb5cb2bab4c4f3"/>
+  <project name="buildroot_hardware_aml_arm_gpu" path="hardware/aml-3.14/arm/gpu" revision="e0f58379ee32c96a38a9933ac1bb5cb2bab4c4f3"/>
+  <project name="buildroot_hardware_aml_arm_gpu" path="hardware/aml-3.10/arm/gpu" revision="6835098c27bafebd44610d6d5617c2a2fac04819"/>
+
+  <project name="buildroot_vendor_broadcom_brcm-bsa" path="vendor/broadcom/brcm-bsa" revision="1a0adf239ee4efca9f4c0d1e8c2101080a1b961e"/>
+  <project name="buildroot_multimedia" path="multimedia" revision="e0b06a9126864c1e10fc01c05bc7c7d8f07949ce"/>
+
+</manifest>
+
