@@ -33,7 +33,7 @@
   <project name="buildroot_toolchain_gcc_linux-x86_aarch64_gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu" path="toolchain/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu" revision="0bf3bc2500c1e5141bf3cd97789e2c57f51cc631"/>
   <project name="buildroot_toolchain_gcc_linux-x86_aarch64_gcc-linaro-aarch64-linux-gnu-4.9" path="toolchain/gcc/linux-x86/aarch64/gcc-linaro-aarch64-linux-gnu-4.9" revision="7c3e394f70c9b2161d561c386572f1d6be21259f"/>
   <project name="buildroot_toolchain_gcc_linux-x86_arc_arc-4.8.5" path="toolchain/gcc/linux-x86/arc/arc-4.8.5" revision="b346ef6656e43de5cff227b2271b67a13c8e12dc"/>
-  <project name="buildroot_toolchain_gcc_linux-x86_arm_Sourcery_G++_Lite-2010q1" path="toolchain/gcc/linux-x86/arm/Sourcery_G++_Lite-2010q1" revision="1bccaf02cd248c8d4c9c644caba1e9bc9fb6e98e"/>
+  <project name="buildroot_toolchain_gcc_linux-x86_arm_Sourcery_Gpp_Lite-2010q1" path="toolchain/gcc/linux-x86/arm/Sourcery_G++_Lite-2010q1" revision="1bccaf02cd248c8d4c9c644caba1e9bc9fb6e98e"/>
   <project name="buildroot_toolchain_gcc_linux-x86_arm_gcc-linaro-6.2.1-2016.11-x86_64_arm-linux-gnueabihf" path="toolchain/gcc/linux-x86/arm/gcc-linaro-6.2.1-2016.11-x86_64_arm-linux-gnueabihf" revision="b992d5a7a2f96946dff97d8c1431e2727f52199e"/>
   <project name="buildroot_toolchain_gcc_linux-x86_arm_gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf" path="toolchain/gcc/linux-x86/arm/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf" revision="32a934c7f728290fd4f08bf415d0cd451aaf4724"/>
   <project name="buildroot_toolchain_gcc_linux-x86_arm_gcc-linaro-arm-linux-gnueabihf-4.9" path="toolchain/gcc/linux-x86/arm/gcc-linaro-arm-linux-gnueabihf-4.9" revision="c95a4ecf59622c87daa4b812e278e294ea2f562f"/>
