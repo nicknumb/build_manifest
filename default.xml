@@ -3,8 +3,8 @@
   <remote fetch="https://github.com/khadas/" name="github"/>
   <default remote="github" revision="refs/heads/buildroot" sync-j="4"/>
 
-  <project name="linux" path="kernel/aml-4.9" revision="656a3fa29d2b03eefe6e61278ed694344f76a18a"/>
-  <project name="linux" path="kernel/aml-3.14" revision="26a0ca8040166eae5cc45ece02d7bc193585dd39"/>
+  <project name="linux" path="kernel/aml-4.9" revision="buildroot-aml-4.9"/>
+  <project name="linux" path="kernel/aml-3.14" revision="buildroot-aml-3.14"/>
   <project name="buildroot_vendor_broadcom_brcm-bsa" path="vendor/broadcom/brcm-bsa" revision="1a0adf239ee4efca9f4c0d1e8c2101080a1b961e"/>
   <project name="buildroot_vendor_amlogic_chromium" path="vendor/amlogic/chromium" revision="ebe278cbf86d1208b492cd505cd26597680e4d46"/>
   <project name="buildroot_vendor_amlogic_test_tools" path="vendor/amlogic/test_tools" revision="25b4979e7040fade9c9c8291d88a2ee210b368f1"/>
